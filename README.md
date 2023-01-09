@@ -1,6 +1,6 @@
 ### Hola! Mi nombre es Mauricio👋🏼
 
-- 🌱 Busco mi primer empresa IT, una que crea en mi potencial para demostrarlo 💪🏼
+- 🌱 Busco una empresa IT, una que crea en mi potencial para demostrarlo 💪🏼
 - 🔭 Estoy mejorando mis habilidades fullstack😁
 - 🤔 Preparando mi portfolio...
 - 📚💻Estudio Lic. en Sistemas desde 2018.
